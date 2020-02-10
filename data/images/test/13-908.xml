@@ -1,0 +1,26 @@
+<annotation>
+    <folder>images</folder>
+    <filename>13-908.jpg</filename>
+    <path>/home/suhail/python-projects/pancover_training_data/controlled/pancover/scripts/images/13-908.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>300</width>
+        <height>400</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>pancard</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>26.450459</xmin>
+            <ymin>108.08084</ymin>
+            <xmax>190.46143</xmax>
+            <ymax>302.37692</ymax>
+        </bndbox>
+    </object>
+</annotation>
